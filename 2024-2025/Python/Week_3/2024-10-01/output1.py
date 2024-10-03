@@ -1,8 +1,7 @@
 # My Name is Ismael lara
 # 10/1/24
 
-('Ireland Olivia')
-('Gomes Neusa')
-('Brainard Rachel A')
-('Ohiomoba, Oghosa')
-('Ismael lara')
+print('Ireland Olivia')
+print('Brainard Rachel A')
+print('Ohiomoba, Oghosa')
+print('Ismael lara')
