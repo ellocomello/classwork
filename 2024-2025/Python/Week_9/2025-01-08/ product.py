@@ -1,5 +1,5 @@
 # ismael
-1/8/2025
+#1/8/2025
 
 num1=int(input("Please enter a number"))
 num2=int(input("Please enter another number"))
